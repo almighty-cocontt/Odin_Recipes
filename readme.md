@@ -1,0 +1,3 @@
+Main goal of this project is to build a basic recipe website. 
+First stage will be simple HTML, however ill revisit this project later to style with  CSS.
+some of the most important skills that i hope to demonstrate here are: ability to make boilerplate index.html file; use all the html tags, that ive learned so far on this odin course, and most importantly improve and learn better when and how to commit properly on git.
